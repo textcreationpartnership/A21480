@@ -1,0 +1,979 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte declarynge the establysshment of the successyon of the kynges moste royall maiestie in the imperyall crowne of this realme</title>
+            <title>Proclamations. 1534-01-15</title>
+            <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1534</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21480</idno>
+            <idno type="STC">STC 7780</idno>
+            <idno type="STC">ESTC S107595</idno>
+            <idno type="EEBO-CITATION">99843294</idno>
+            <idno type="PROQUEST">99843294</idno>
+            <idno type="VID">8012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8012)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 07:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte declarynge the establysshment of the successyon of the kynges moste royall maiestie in the imperyall crowne of this realme</title>
+                  <title>Proclamations. 1534-01-15</title>
+                  <author>England. Sovereign (1509-1547 : Henry VIII)</author>
+               </titleStmt>
+               <extent>[4] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Tho. Berth. regius impress. excudebat. Cu[m] priuilegio,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1534]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publication year from STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Henry VIII, 1509-1547 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:8012:1" rendition="simple:additions"/>
+            <head>¶An acre declarynge the eſtablyſhment of the ſucceſſyon of the kynges moſte <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> maieſtie in the imperyall crowce of this realme.</head>
+            <p>_<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their moſte humble wyſe ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewen vnto your maieſty<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, your moſte humble and obedyent ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uall and tu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>all, and the co<g ref="char:cmbAbbrStroke">̄</g>mons in this preſent parly ament aſſembled, that ſyns it is the naturall in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of euery man, gladly and wyllingly to prouy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for the ſuretie of bothe his tytle and ſucceſſyon, although it touche his onely priuate cauſe. Wethe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re moſte ryghtfull and dredefull ſoueraign<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lorde, teken our ſelues m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more boundes to beſeche and inſtant your hyghneſſe, although we doubte not of your princely he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and wyſdome, myxed with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rall affectyon to the ſame, to foreſe and prouyde for the perfyte ſuretie of bothe you and of your moſte laufull ſucceſyon and heyres, vpon whiche dependeth all our ioye and welthe<g ref="char:punc">▪</g> In whom alſo is vnyted and k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ytte the onely mere trewe inherytaunce and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ycle of this realme, without any contradictyon. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herfore we your ſayd moſte humble and obedyent ſubiectes, in this preſent parlyament aſſemb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, callynge to our remembraunce the great diuiſyons, whiche in tymes paſte haue ben in this realme by reaſon of ſeuerall tyt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es pretende<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the imperyall crowne of the ſame whiche ſomtymes, and for the moſte parte enſued by occaſyon of ambiguite and doubtes, than not ſo perfycely declared, but that men myght vpon frowarde intentes expounde them i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> euery mannes ſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ce appetyte and affectyon, after their ſence, contrary to the ryght legalyte of the ſucceſſyon and poſterite of the laufull kynges and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>perours of this realme: wherof hath inſued great effecſyon and diſtruction of ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es bloode, as well of a great numbre of the nobles as of other the ſubiectes, and ſpecially inherytours in the ſame. And the greateſt occaſyou therof hath ben bycauſe no perfyte and ſubſtancyall promſyou by lawe hath ben made within this realme of it ſelfe, whan doubtes and queſtyous haue ben moued and pro<g ref="char:EOLhyphen"/>poned of the certay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and legalytie of the ſucceſſyon and poſterytie of the crowne. By reaſon wherof the by ſhoppe of Bome and ſee apoſtolybe, contrarye to the great and inniolable grauntes of iutiſdictions gyuen by god immedyatly to emp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ours, kynges, and princes in ſucceſſyon to their hey<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, hath preſumed in tymes paſte to inueſt, who ſhulde pleaſe them to inheryte in other me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es ky<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghomes and domynions: Whiche thynge we pour moſte humble ſubiectes, bothe ſpitiruall and temporall, do moſte abhor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and deteſte. And ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ymes other forayne princes and potentates of ſoudrye degrees, myndynge rather diſſenſyon and diſcorde to con<g ref="char:EOLhyphen"/>ty<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e in the rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter deſolacyon them<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, that charyte, equyre, or vnite, haue many tymes ſuppor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>onge tyties, wher<g ref="char:EOLhyphen"/>by they myght the more caſyly and facilly aſppre to the ſuperyorite of the ſame. The contynuaunce and ſufferaunce wherof depely conſydred and pondered, were to daungerous and pery<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lous to be ſuffred any lenger within this realme, and to moche contrary to the buite, peace, and tranquyllite of the ſame, beynge greatly reprocheable and di<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>able to the hole realme.</p>
+            <p>In conſyderacion wherof your ſayd moſte humble and obedyent ſubiectes, the nobles and comons of this realme, callynge further to their remembrannce, that the good vuite, peace, and welthe of this realme, and the ſucceſſyon of the ſithiectes of the ſame moſte ſpecially and principally aboue all woridly thyuges, conſyſteth and reſtech in the certayutie and ſuretie of the procreation, and poſte<g ref="char:EOLhyphen"/>tyte of your hyghneſſe, in whoſe moſte coyall perſon at this preſent tyme is no maner of doubte nor queſtion, do therfore moſte hum<g ref="char:EOLhyphen"/>bly beſeche your hyghneſſe, that it may pleaſe your maieſtye, that it may be inacted by your hyghneſſe, with the aſſent of the lordes ſpirytuall and temporall, and the co<g ref="char:cmbAbbrStroke">̄</g>mons in this preſent parlyament aſſembled, and by anctorite of the ſame, that the maryage here to fore ſolemnyſed bytwene your hyghneſſe and the lady Catharyue, beyuge before laufull wyfe to prince Acture, your eider brother, whiche by hym was carnally knowen, as dothe duely appere by ſuffycient proue in a laufull proceſſe had and made before Ch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mas by the ſuffera<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of god nowe archebyſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op of Canterbury, and metropolytane and primate of all this realme, ſhall be by auctorit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this preſent parlyament, diffynityuely, clerely, and abſolutely declared, de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and ading<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt the lawes of a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uighty god, and alſo accepted, reputed, and taken of no value ne effecte: but vtterly voyde and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therof made be the ſayd a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chebyſſhop ſhalbe good and effectuall to all intentes and purpoſes: any lyconce, diſpen<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>n or <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> acte or actes, go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ge afore, or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſuyng the ſame, or to the contrary therof in any wyſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>not withſtandynge. And that euery <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, diſpenſation, acte or actes thynge or thynges, here tofore had, made, done or to be done to the contrary therof ſhall be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> effecte. And that the ſayd lady Catharyne ſhall be from hence forthe ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d and reputed onely dowagyet to prince A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture, and not quene of this realme. And that the laufull matrymouye had and ſolemyſed bytwene your hyg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſſe and your moſte dere &amp; entietly beloued wy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> quene A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, ſhall be eſtablyſſhed and taken for vndoubtfull, trewe, ſyncere, and perfy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e euer hereafter, accordynge to the iuſte iudge<g ref="char:EOLhyphen"/>men of the ſayd Thomas archbyſſhop of Canterbury, metropolytane and primate of all this realme / whoſe groundes of iudgement haue ben confyrmed as well by the hole clergye of this realme, in bothe the conuocacions, and by bothe the vn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uerſyties therof, as by the vniuerſyties of Bon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny, Padua, Parys, Orlyaunce, Tolouſe, Ingieu, and dyuers others: And alſo by the priuate writynges of many ryght excellent well lerned men. Whiche groundes ſo confyrmed, and iudgement of the ſayd archebyſſhop <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſuynge the ſame, togyther with your maryage ſolempnyſed, byt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e your hyghneſſe and your ſayd laufull wyfe quene Anne / We your ſayd ſubiectes bothe ſpirytuall and temporall, do purely, play<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely, conſtantly, and fyrmely accept, approue, and tatifye for good and conſonant to the lawes of almyghty god, withou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rour or defaute: Moſte humbly beſechynge your maieſtye, that it may be ſo eſtablyſſhed for euer by your moſte gracyous and royall aſſent.</p>
+            <p>¶ And furthermore ſyns many inconuenyences haue fallen as well within this realme as in others, by reaſon of maryenge within the degrees of maryage prohybit by goddes lawes, that is to ſaye. The ſonne to marye the mother, or the ſtepmother: The brother the ſyſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> The father his ſonnes doughter, or his doughters doughter: or the ſonne to marie the doughter of his father, procrest and borne by his ſtedmother: or the ſonne to mary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, beynge his fathers o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mothers ſyſter: or to marie his vn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les wyfe: or t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e rather to marie his ſonnes wyfe: or the brother to marie his brothers wyfe: or any man to marie his wyfes doughter, or his wyfes ſonnes doughter, or his wyfes d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ughters doughter, or his wyfes ſyſter. whiche maryages all be it they be playnly prohybite and deteſted by the lawes of god: yet neuertheleſſe at ſome tymes the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haue proceded vnder colours of diſpenſacions by mannes power, whiche is but vſurped and of right ought not to be graunted, admytted, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alowed<g ref="char:punc">▪</g> for no man, of what eſtate, degree, or con<g ref="char:EOLhyphen"/>dycion ſo euer he be, hath power to diſpence with goddes lawes: as all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lergy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this realme in the ſayd conuocacions, and the moſte parte of all the famous <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and thynke.</p>
+            <p>¶ Be it therefore <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> refrant<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of thus <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>me, or in any your domi<g ref="char:EOLhyphen"/>nyons, of what eſl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſayd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egrees afore re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſed, what pret<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uer ſhall be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> digni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, degree, or coudycion ſo euer they be, hath <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any the degrees about ex<g ref="char:EOLhyphen"/>preſſed, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ate from the boundes of ſuche <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad not by any power.
+<pb facs="tcp:8012:2" rendition="simple:additions"/>power whit he is bu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aght not to be gra<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntan, of what eſtate, d<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on ſo euer he be, hath power to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pence with goodes lawes: as all the c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>me in the ſaid com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocacio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> parte of all the famous wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terſycies of chriſtendome, and the alſo do affyrme and thynke.</p>
+            <p>¶ Be it therfore enacted by a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctorire aforeſayd, that no perſon or perſons, ſubiectes or r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es of this tradi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, or in any your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yons, of what eſtate, degree, or dignyte ſo euer they be ſhall from <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m the ſayd degrees afore r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herſed, what pretence ſo euer ſhall be made to the contrary therof. And in caſe any perſon or perſons, of what eſtate, degr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, degree, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>condycion ſo euer they be, hath ben hereto fore maryed within this realme, or in any the ay<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ges domymous, within any the degrees aboue ex<g ref="char:EOLhyphen"/>preſſed, and by any the archebyſſhoppes, byſſhops or myniſters of the churche of Englande, be ſeparate from the boundes of ſuche <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aufull maryage, that than euery ſuche ſeparacion ſhall be good, laufull, fy<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and permanent for euer: And not by any power, auctorite, or meanes to be reuoked or vndone here after. And that the chyldren procedynge and proc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t vnder ſuche unlaufull mary<g ref="char:EOLhyphen"/>age, ſhall not be laufullne legi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>timate: any forayne lawes, lyco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces, diſpenſacions, or other thynge or thynges to the contrary therof not withſtandyng. And in caſe there be any perſone or perſons within this realme, or in any the kynges domy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edy maryed within any the ſayd degrees aboue ſpecifyed, and not yet ſeparat from the bou<g ref="char:cmbAbbrStroke">̄</g>des of ſuche vnlaufull maryage that than mary ſuche perſon ſo vnlaufully maryed, ſhall be ſeparate by the diſtinityne ſentence and iudgementes of the archebyſſhops, byſſhops, and other myniſters of the churche of Englande, and in other your domynions within the lymittes of their inriſdictions and auctorites, and by no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e other power or auctorite. And that all ſentences and ingementes, gyuen and to be geuen by any archebyſſhop, byſſhop, or other myniſter of the churche of Englande, or in other the kynges domynions, within the limittes of their inriſdictions and auctorite, ſhall be dif<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inityne, fyrme, good, and effectuall to all intentes, and be obſerued and obeyed without ſtrynge any prouocations, appeles, pro<g ref="char:EOLhyphen"/>hibycions, or other proceſſe from the courte of Rome to the derogation therof, or contrary to the acte made ſyns the begynnyng of this preſent parlyament for reſtraynt of ſuche prouocations, appeles, prohibicions, and other proceſſes.</p>
+            <p>¶ And alſo be it enacted by auctorite aforeſayd, that all the iſſue had and procreat, or hereafter to be had and procreat between your hyghneſſe and your ſayd moſte dere and entierly beloued wyfe quene Anne, ſhall be your laufull chyldren and be inherytable and inhe<g ref="char:EOLhyphen"/>ryte accordynge to the courſe of inherytance and lawes of this realme, the imperiall crowne of the ſame, with all dignyties, honours, preheminences, prerogatyues, auctorities, and i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſdictions to the ſame a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nexed or belongyng, in as large and ample maner as your hyghneſſe at this preſent tyme hath the ſame as kynge of this realme, the inherytaunce therof to be and remayne to your ſayd chyl<g ref="char:EOLhyphen"/>dren and ryght heyres, in maner and forme as here after ſhall be declared. That is to ſay, fyrſt the ſayd imperyall crowne and other the premiſſes, ſhall be to your maieſtie and to your heyres of your body laufully begotten, that is to ſay, to the fyrſt ſonne of your body bytwene your hyghneſſe and your ſayd laufull wyfe quene Anne, begotten, and to the heyres of the body of the ſame fyrſt ſonne lau<g ref="char:EOLhyphen"/>fully begotten. And for defaute of ſuche heyres, than to the ſeconde ſonne of your body and of the body of the ſayd quene Anne begot<g ref="char:EOLhyphen"/>ten, and to the heyres of the body of the ſayd ſeconde ſonne laufully begotten. And ſo to euery ſonne of your body and of the body of the ſayd quene Anne begotten, and to the heyres of the body of euery ſuche ſonne begotten accordynge to the courſe of inherytaunce in that behalfe. And if it ſhall happen your ſayd dere and entierly beloued wyfe quene Anne to deceſſe without iſſue male of the body of your hyghneſſe to begotten (whiche god defende) that the ſame imperyall crowne, and all other the premiſſes to be to your maieſtie as is aforeſayd, and to the ſonne and heyre male of your body laufully begotten, and to the heyres of the body of the ſame ſonne and heyre male laufully begotten. And for defaute of ſuche iſſue, than to your ſeconde ſonne of your body laufully begotten, and to the hey<g ref="char:EOLhyphen"/>res of the body of the ſame ſeconde ſonne laufully begotten: And ſo from ſonne and heyre male, to ſonne and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heyres of the ſeuerall bodyes of euery ſuche ſonne and heyre male to be gotten accordyng to the courſe of inherytaunce, in l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke maner and fourme as is aboue ſayd. And for defaute of ſuche ſonnes of your body begotten, and of the heires of the ſeuerall bodyes of euery ſuche ſonnes laufully begotten, that than the ſayd imperiall crowne, and other the premiſſes, ſhalbe to the iſſue female bytwene your maieſtie and your ſayd moſte dere and entierly beloued wyfe quene Anne begotten. That is to ſaye, fyrſt to the eldeſt iſſue female, whiche is the lady Eliſabeth nowe princeſſe, and to the heyres of her body laufully begotten: And for defaute of ſuche iſſue, than to the ſeconde iſſue female, and to the heyres of her body laufully begotten: And ſo from iſſue female to iſſue female, and to their heyres of their bodyes one after an other, by courſe of inherytaunce, accordynge to their ages, as the crowne of Englande hath ben accuſto<g ref="char:EOLhyphen"/>med &amp; ought to go in caſes whan there be heyres females to the ſame: And for defaute of ſuche iſſue: than the ſayd imperyall crowne, and all other the premiſſes, ſhall be in the right heyres of your hyghneſſe for euer.</p>
+            <p>¶ And be it further enacted by auctorite foreſayd, that on this ſyde the fyrſt day of May next comynge proclamations ſhall be made in all ſhyres within this realme of the tenour and contentes of this acte. And if any perſon or perſones, of what eſtate, dignytie, or condycion ſo euer they be, ſubiecte or reſeaunt within this realme, or els where within any the kynges domynions, after the ſayd fyrſt daye of May, by writynge or imprintynge, or by any exteriour acte or dede, malyciouſly procure or do, or cauſe to be procured or done any thynge or thynges to the peryll of your moſte royall perſon, or malyciouſly gyue occaſyon by writynge, printe, dede or acte, wherby your hyghneſſe might be diſtourbed or interrupted of the crowne of this realme: or by writynge, printe, dede, or acte procure or do, or cauſe to be procured or done any thyng or thynges to the preiudyce, falaunder, diſtourbaunce, or deregacion of the ſayd laufull matrimony ſolempnyſed bytwene your maieſtie and the ſayd quene Anne: or to the peryll, ſklaunder, or diſheryſon of any the iſſues and heyres of your hyghneſſe, beynge lymitted by this acte to enheryte and to be inherytable to the crowne of this realme, in ſuche forme as is aforeſayd: wherby any ſuche iſſues or heyres of your hyghneſſe myght be diſtroyed, diſtourbed, or interrupted in body or tytle of inherytaunce to the crowne of this realme, as to them is lymitted in this acte, in forme aboue reherſed: that than euery ſuche perſon and perſones, of what eſtate, degree, or condycion they be of, ſubiecte or reſcant within this realme, and their aydours, coun<g ref="char:EOLhyphen"/>ſaylours, maynteynours, and abbettours, &amp; euery of them for euery ſuche offence ſhall be adiudged hygh traytours, and euery ſuche offence ſhall be adinged hygh treaſon, and the offenders and their aydours, counſaylours, maynteynours, and abbettours, and euery of them, beynge laufully contricte of ſuche offence by preſentement, verdyte, confeſſyon, or proceſſe, accordinge to the cuſtomes and lawes of this realme. ſhall ſuffer paynes of dethe. as in caſes of hygh treaſon. And that alſo euery ſuche offender, heynge conuicte, as is aforeſayd, ſhall loſe and forſayde to your hyghneſſe, and to your heyres kynges of this realme, all ſuche manours, landes, tene<g ref="char:EOLhyphen"/>mentes, rentes, annuities, and hereditamentes. Wherein they had in poſſeſſyon as owners, or were ſole ſcaſed of, by or in any ryght, tytle or meanes, or any other perſon or perſons <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vſe, of any eſtate of inherytau<g ref="char:cmbAbbrStroke">̄</g>ce at the day of ſuche treaſons and offences by them co<g ref="char:cmbAbbrStroke">̄</g>mytted and done: And ſhall <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>res. as well all maner ſuche eſta<g ref="char:EOLhyphen"/>tes of f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eholde and intereſtes <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whiche they had at the tyme of conuiction or atteyndre of any ſuche <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> polteyke, to their heyres, aſ<g ref="char:EOLhyphen"/>ſignes, and ſucceſours, and euery <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res and ſucceſſours, and all other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to their vſes, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffyces, auntutees, and co<g ref="char:cmbAbbrStroke">̄</g>munes, <gap reason="illegible" resp="#PDCC" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb facs="tcp:8012:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ces, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſole ſcaſed of, by or in any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meanes, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s had to their vſe, of any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the day of ſuche treaſons and offen<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted and done: And ſhall alſo loſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et to your hyghneſſe, and to your ſayd heyres, as well all maner ſuche eſta<g ref="char:EOLhyphen"/>tes of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for yeres of i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es, as all their goodes, catals, and de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, whiche they had at the tyme of coun<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion or after<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re of any ſuche offence. Sauyng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> price and perſons, and bodyes polityke, to their heyres, aſ<g ref="char:EOLhyphen"/>ſignes, and ſucce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours, and euery of them, other than ſuche perſons as ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and their heyres and ſucce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to their vſes, all ſuche ryghe, tytle, vſe, intereſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ees, off yees, an<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tes, and com<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es, whiche they a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of them ſhall happen to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or vpon any ſuche <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ties, or here<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e tamenets, that ſhall ſo happen to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y reaſon of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for any the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and offences aboue reh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſed, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tyme before the ſayd creaſons and offences <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>¶ And be it further enacted by an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ite aforeſayd, that if any perſon or perſons, after the ſaid firſt day of May, by any wordes with<g ref="char:EOLhyphen"/>out writyng, or any <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or acte <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or verer any change or changes to the peryll of your hygh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſe, or to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>der or pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dyce of the ſayd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>yſed by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your hygheneſſe and the ſayd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uene <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or to the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>der or diſhen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of the iſſue are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es of your body <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and to be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ſayd que<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. I<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, or any other your lawfull heyres, whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſhall be inherytable to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of this rea<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as is afore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by this acte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: that than euery ſuche offence ſhall be taken and adiuged for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pryſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. And that euery perſone and perſones, of what eſta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, degree, or <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ycion ſo euer they be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or in any the kynges <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſo doynge and offendy<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, &amp; bey<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g thereof lawfully <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yce, proceſſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, ſhall ſuffer <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their bodyes at the kynges <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe as well all their goodes, cata<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, and de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es as all ſuche intereſtes &amp; eſtates of free bolde, or for pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, whiche any ſuche <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall haue of or in any <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at the tyme of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of ſuch office.</p>
+            <p>¶ And be it alſo enacted by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aforeſayd that no perſon nor perſones off <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndynge <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n any the treaſons or meſpriſyons co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>try<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and ly<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ted by this acte, ſhal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of any maner of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> within this realme, or els where within any the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynges domy<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, but ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ete<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe are be <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ded of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amer Ioy vſe, cuſtome graunt, preſcrip<g ref="char:EOLhyphen"/>tion confyrmacion, or was other thynge or thynges to the contrary thereof in any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>¶ And be it alſo <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ted <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aforeſayd that if your mate<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſh<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e happen to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before any ſuche your iſſue and heyre male, whiche ſhulde wheryte the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of this realm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be of his age of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, or before ſuche your iſſue and heyre female. Whiche ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de wheryte the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of this realme ſhall be maryed, or be of the age of the reces (Whiche almyngher god defende) that than your ſayd iſſue and h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e made to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſo beynge <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſayd age of that yetes, or your ſayd iſſue and female i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the crowne, beynge <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aryed, or within the ſayd age of the yetes? ſhall be and remayne, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuche tyme as ſuche iſſues and hey<g ref="char:EOLhyphen"/>res ſhall come to their ſayd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ages afore ly<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tted, at and in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their naturall another. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ynge, with ſuche others counſay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours of your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as your <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s your lyfe tyme ſhall depure and aſſigne by your wyll, or otherwyſe for the ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, without contradiction of any perſone or perſones to the contrary therof. And if and perſone or perſones by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>itynge or exte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or acte, pro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re or do, or cauſe to be proceeded or do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e any thynge or thynges to the let or diſturb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that than euery ſuche offence ſhall be hygh treaſon, and the offenders, beynge therof <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſhall ſuffer ſuche payde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of dethe, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſed of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des, intereſtes for yetes, goodes, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and dertes in ſuche <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as is aboue ſhecifyes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> caſes of treaſon afore muche youed.</p>
+            <p>¶ And for the more ſure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of your <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, accordynge to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>our and fourme of this <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> enacted by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> off the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of your <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and all other your <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and beynge, of that hers after ſhall be at their ſhall ages, by the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of your <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, or of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our beyres, at all tymes here after, from tyme to tyme, wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it ſhall pleaſe your byg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, or your beyres to appoynte, ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake a corporall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thour the preſence of your hyghneſſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yres: or before ſuche other as your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or your heyres wyll depute for the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that they ſhall ree<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and conſtantly, without frame <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yle obſtruct, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, def<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eye, to their co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ynges wy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e and vttermoſt of their powers, the hole effecte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tes of this preſone acte. And that all ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner your ſubiectes, as well ſpirituall as temporall, ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynge bu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ay, teſty<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or dees is may<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the handes of your hyghneſſe, or of your heyres, or doynge any f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te to your hyghneſſe or to your heyres, by reaſon of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndes, ſhall ſweare alyke cor<g ref="char:EOLhyphen"/>porall othe, that they and euery of them, without faude or gyle, to their co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ynge, wytte, and vttermoſt of their powers, ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rewly, fyr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nely, and conſtantly obſerue, fulfill, maynteyne, defende, and kept the effectes and contentes contayner and ſpecifyed in this acte, or us any parte therof. And that they or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them ſhall hereafter haue any lyuerayes, oterlemayn, or reſtytucion out of your handes, nor out of the handes of your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, tyll they haue made the ſayd corporall othe, in fourme aboue reherſed. And if any perſon or perſones, beynge <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>maunded by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of this acte, to make the ſayd othe afore lymitted, obſtyna<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely refuſe that to do, in contemper of this acte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that than euery ſuche perſon (ſo doynge) to be taken and accepted for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffendour in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſpriſyon of hygh treaſon. And that euery ſuche refuſall ſhall be demed and adiuged meſpriſyon of hygh treaſon: and the offendour therin to ſuffer ſuche pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes and impriſonment, loſſes and forfartures, and alſo loſe priu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſeges of ſain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tuaties, in lyke maner and fourme as is aboue mency<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned for the meſpriſyons of treaſons afore lymitted by this acte.</p>
+            <p>¶ Prouyded alwares, that the artycle in this acte contayned concernynge proi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bicions of maryages whithin the degrees afore mencyoned in this acte, ſhall alwayes be taken, the inreſpreted, and expounded of ſuche maryages, where maryages were ſolem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny<g ref="char:EOLhyphen"/>ſed, and carnall knowlege was had.</p>
+            <trailer>¶ God ſaue the kynge.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Tho. Berth. regius impreſſ. excudebat. Cu<g ref="char:cmbAbbrStroke">̄</g> priuilegio.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
